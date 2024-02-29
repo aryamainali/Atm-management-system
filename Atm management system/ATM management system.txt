@@ -1,0 +1,13 @@
+atm bank management system 
+
+1 create user account
+2 deposit amount
+3withdral amount 
+4 check balance
+5 exit
+
+
+enter the choice
+
+
+Arya mainali
